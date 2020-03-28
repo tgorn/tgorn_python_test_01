@@ -2,6 +2,7 @@ from Person_mod.Class_01 import Person
 
 
 #Small change #01
+#Small change #02
 
 a = Person("Tomek", 45)
 b = Person("Karolina", 42)
